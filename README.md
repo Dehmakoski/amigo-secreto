@@ -1,4 +1,4 @@
 Jogo do amigo secreto
 
-Insira mais que dois nomes para iniciar o jogo.
-Após inserir, sorte-os para saber quem ganhou o jogo.
+Esse jogo foi criado para sortear um amigo entre um grupo de amigos.
+Para iniciar o jogo adicione seus amigos, após inserir, faça o sorteio clicando no botão para saber quem ganhou o jogo.
